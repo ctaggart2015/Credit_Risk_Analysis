@@ -40,5 +40,5 @@ precision: The precision is low for High-risk and is high for Low-risk.,
 recall:High risk = .91 , Low risk = .94 
 
 ## Summary: 
-
+From the results from all we can see that the precisiom for high-risk is low and for low-risk is high. The balanced accuracy they seem to all be over .5 being closer to 1 then 0. The recall for high risk are all over .5 with the average around .67. The low risk being over .4 and the average .72. The best machine learning to choose would be Easy Ensemble AdaBoost Classifier. This is because they have the highest recall value being the closest to 1. 
 
